@@ -1,0 +1,1 @@
+Este repositório contém as listas de lógica de programação e algoritmos em linguagem C propostas pelo professor da universidade.
